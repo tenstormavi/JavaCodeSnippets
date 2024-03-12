@@ -1,4 +1,4 @@
-package DesignPatterns.StrategyPattern.WithStrategyPattern.Strategy;
+package DesignPatterns.Behavioral.StrategyPattern.WithStrategyPattern.Strategy;
 
 public class FutureDriveStrategy implements DriveStrategy {
 

@@ -1,4 +1,4 @@
-package DesignPatterns.StrategyPattern.WithoutStrategyPattern;
+package DesignPatterns.Behavioral.StrategyPattern.WithoutStrategyPattern;
 
 public class Vehicle {
     // Problem: Sports and off-road classes are base class of vehicle class and sharing a similar capability

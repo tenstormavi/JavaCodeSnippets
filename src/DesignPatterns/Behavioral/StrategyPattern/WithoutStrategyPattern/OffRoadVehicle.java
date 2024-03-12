@@ -1,7 +1,6 @@
-package DesignPatterns.StrategyPattern.WithoutStrategyPattern;
+package DesignPatterns.Behavioral.StrategyPattern.WithoutStrategyPattern;
 
-public class SportsVehicle extends Vehicle {
-
+public class OffRoadVehicle extends Vehicle {
     public void drive() {
         // different drive logic
         System.out.println("Sports Drive Capability!");

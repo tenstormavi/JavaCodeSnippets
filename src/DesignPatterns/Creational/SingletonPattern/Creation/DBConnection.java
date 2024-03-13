@@ -17,6 +17,7 @@ public class DBConnection {
      */
     private static DBConnection connectionObj;
 
+    // In singleton, the constructor should be private so that object of the class cannot be created directly
     private DBConnection() {}
 
     public static DBConnection getInstance() {

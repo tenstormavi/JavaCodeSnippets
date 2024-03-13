@@ -12,5 +12,7 @@ public class Main {
         DBConnectionSynchronized connectionSynchronized = DBConnectionSynchronized.getInstance();
 
         DBConnection connectionObj = DBConnection.getInstance();
+
+        BillPughSingleton billPughSingleton = BillPughSingleton.getInstance();
     }
 }
